@@ -1,0 +1,12 @@
+/**
+ * @name MacOS Controls
+ * @description Replaces the standard Windows "Close", "Minimize" and "Maximize" buttons with the MacOS buttons and their logos.
+ * @author itsmarianmc
+ * @version 1.0.0
+ * @website https://github.com/itsmarianmc
+ * @authorId 508863359777505290
+ * @authorLink https://itsmarianmc.github.io/
+*/
+
+/* Importing CSS */
+@import url("https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/MacOS-Controls.css");

@@ -46,7 +46,7 @@
 /* MacOS Buttons */
 .winButtonClose_c38106 {
 	background-color: #fd5754;
-	background-image: url('https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/macOs_betteranimations_close.png');
+	background-image: url('https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/macOs_close.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 100%;
@@ -54,7 +54,7 @@
 
 .winButton_c38106[aria-label="Minimize"] {
 	background-color: #febb40;
-	background-image: url('https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/macOs_betteranimations_minimize.png');
+	background-image: url('https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/macOs_minimize.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 100%;
@@ -62,7 +62,7 @@
 
 .winButton_c38106[aria-label="Maximize"] {
 	background-color: #34c848;
-	background-image: url('https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/macOs_betteranimations_maximize.png');
+	background-image: url('https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/build/macOs_maximize.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 100% 100%;
