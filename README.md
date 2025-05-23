@@ -1,4 +1,4 @@
-<img width=800 src="https://raw.githubusercontent.com/itsmarianmc/macOS-Controls/refs/heads/main/assets/preview.png">
+<img width=800 src="https://raw.githubusercontent.com/itsmarianmc/MacOS-Controls/refs/heads/main/assets/preview.png">
 
 # MacOS-controls
 Replaces the standard Windows “Close”, ‘Minimize’ and “Maximize” buttons with the MacOS buttons and their logos.
